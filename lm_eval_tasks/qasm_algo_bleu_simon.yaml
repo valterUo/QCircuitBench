@@ -1,3 +1,0 @@
-include: qasm_algo_bleu_bv.yaml
-task: qasm_algo_bleu_simon
-dataset_path: /home/chenhuanran/zwork/QCircuitNet/qasm_dataset/sm_prompts.jsonl

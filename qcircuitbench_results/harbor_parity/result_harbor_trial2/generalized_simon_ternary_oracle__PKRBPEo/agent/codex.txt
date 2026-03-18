@@ -1,1 +1,0 @@
-bash: codex: command not found

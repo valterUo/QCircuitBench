@@ -1,3 +1,0 @@
-include: qasm_oracle_bleu_bv.yaml
-task: qasm_oracle_bleu_simon
-dataset_path: /root/zwork/QCircuitNet/qasm_oracle_dataset/sm_oracle_prompts.jsonl

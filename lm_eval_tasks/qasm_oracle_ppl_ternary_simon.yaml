@@ -1,3 +1,0 @@
-include: qasm_oracle_ppl_bv.yaml
-task: qasm_oracle_ppl_ternary_simon
-dataset_path: /home/chenhuanran/zwork/QCircuitNet/qasm_oracle_dataset/ternary_simon_prompts.jsonl

@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qcircuitbench"
+version = "0.1.0"
+description = "A comprehensive quantum circuit generation platform for LLM training data"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "QCircuitBench Contributors"},
+]
+keywords = ["quantum", "circuits", "benchmark", "qasm", "qiskit", "llm"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = [
+    "qiskit>=1.0",
+    "networkx>=3.0",
+    "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+export = ["datasets>=2.14"]
+dev = ["pytest>=7.0", "ruff>=0.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,3 +1,0 @@
-include: qasm_algo_bleu_bv.yaml
-task: qasm_algo_bleu_swap
-dataset_path: /home/chenhuanran/zwork/QCircuitNet/qasm_dataset/sw_prompts.jsonl

@@ -1,3 +1,0 @@
-include: qasm_algo_bv.yaml
-task: qasm_algo_ghz
-dataset_path: /home/chenhuanran/zwork/QCircuitNet/qasm_dataset/ghz_prompts.jsonl

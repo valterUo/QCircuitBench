@@ -1,3 +1,0 @@
-include: qasm_algo_bv.yaml
-task: qasm_algo_ternary_simon
-dataset_path: /home/chenhuanran/zwork/QCircuitNet/qasm_dataset/ternary_simon_prompts.jsonl

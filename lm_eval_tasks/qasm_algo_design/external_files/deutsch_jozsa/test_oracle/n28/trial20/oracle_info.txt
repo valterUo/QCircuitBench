@@ -1,2 +1,0 @@
-Balanced: balanced
-Secret string: 0000110100101111100010010010

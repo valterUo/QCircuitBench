@@ -1,2 +1,5 @@
 __pycache__/
 .DS_Store
+myenv/
+qcircuitbench.egg-info
+.pytest_cache

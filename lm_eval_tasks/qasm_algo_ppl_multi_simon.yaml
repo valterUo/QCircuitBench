@@ -1,3 +1,0 @@
-include: qasm_algo_ppl_bv.yaml
-task: qasm_algo_ppl_multi_simon
-dataset_path: /home/chenhuanran/zwork/QCircuitNet/qasm_dataset/multi_simon_prompts.jsonl
